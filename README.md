@@ -3,12 +3,12 @@
 # Projects
 
 + [Project 1](https://samantha936.github.io/CIT281-p1/) Project one description [Repository](https://github.com/Samantha936/CIT281-p1)
-+ [Project 2](url) [Project two description](url)
-+ [Project 3](url) [Project two description](url)
-+ [Project 4](url) [Project two description](url)
-+ [Project 5](url) [Project two description](url)
-+ [Project 6](url) [Project two description](url)
-+ [Project 7](url) [Project two description](url)
++ [Project 2](https://samantha936.github.io/CIT281-p2/) Project two description [Repository](url)
++ [Project 3](url) [Project three description](url)
++ [Project 4](url) [Project four description](url)
++ [Project 5](url) [Project five description](url)
++ [Project 6](url) [Project six description](url)
++ [Project 7](url) [Project seven description](url)
 
 # Labs
 
