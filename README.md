@@ -9,7 +9,7 @@
 + [Project 4](https://samantha936.github.io/CIT281-p4/) Project four description [Repository](https://github.com/Samantha936/CIT281-p4)
 + [Project 5](https://samantha936.github.io/CIT281-p5/) Project five description [Repository](https://github.com/Samantha936/CIT281-p5)
 + [Project 6](https://samantha936.github.io/CIT281-p6/) Project six description [Repository](https://github.com/Samantha936/CIT281-p6)
-+ [Project 7](url) [Project seven description](url)
++ [Project 7](https://samantha936.github.io/CIT281-p7/) Project seven description [Repository](https://github.com/Samantha936/CIT281-p7)
 
 # Labs
 
