@@ -3,24 +3,24 @@
 
 # Projects
 
-+ [Project 1](https://samantha936.github.io/CIT281-p1/) Project one description [Repository](https://github.com/Samantha936/CIT281-p1)
-+ [Project 2](https://samantha936.github.io/CIT281-p2/) Project two description [Repository](https://github.com/Samantha936/CIT281-p2)
-+ [Project 3](https://samantha936.github.io/CIT281-p3/) Project three description [Repository](https://github.com/Samantha936/CIT281-p3)
-+ [Project 4](https://samantha936.github.io/CIT281-p4/) Project four description [Repository](https://github.com/Samantha936/CIT281-p4)
-+ [Project 5](https://samantha936.github.io/CIT281-p5/) Project five description [Repository](https://github.com/Samantha936/CIT281-p5)
-+ [Project 6](https://samantha936.github.io/CIT281-p6/) Project six description [Repository](https://github.com/Samantha936/CIT281-p6)
-+ [Project 7](https://samantha936.github.io/CIT281-p7/) Project seven description [Repository](https://github.com/Samantha936/CIT281-p7)
++ [Project 1](https://samantha936.github.io/CIT281-p1/) First Project [Repository](https://github.com/Samantha936/CIT281-p1)
++ [Project 2](https://samantha936.github.io/CIT281-p2/) Second Project [Repository](https://github.com/Samantha936/CIT281-p2)
++ [Project 3](https://samantha936.github.io/CIT281-p3/) Third Project [Repository](https://github.com/Samantha936/CIT281-p3)
++ [Project 4](https://samantha936.github.io/CIT281-p4/) Fourth Project [Repository](https://github.com/Samantha936/CIT281-p4)
++ [Project 5](https://samantha936.github.io/CIT281-p5/) Fifth Project [Repository](https://github.com/Samantha936/CIT281-p5)
++ [Project 6](https://samantha936.github.io/CIT281-p6/) Sixth Project [Repository](https://github.com/Samantha936/CIT281-p6)
++ [Project 7](https://samantha936.github.io/CIT281-p7/) Seventh Project [Repository](https://github.com/Samantha936/CIT281-p7)
 
 # Labs
 
-+ [Lab 1](https://samantha936.github.io/CIT281-lab1/) Lab 1 description [Repository](https://github.com/Samantha936/CIT281-lab1)
-+ [Lab 2](https://samantha936.github.io/CIT281-lab2/) Lab 2 description [Repository](https://github.com/Samantha936/CIT281-lab2)
-+ [Lab 3](https://samantha936.github.io/CIT281-lab3/) Lab 3 description [Repository](https://github.com/Samantha936/CIT281-lab3)
-+ [Lab 4](https://samantha936.github.io/CIT281-lab4/) Lab 4 description [Repository](https://github.com/Samantha936/CIT281-lab4)
-+ [Lab 5](https://samantha936.github.io/CIT281-lab5/) Lab 5 description [Repository](https://github.com/Samantha936/CIT281-lab5)
-+ [Lab 6](https://samantha936.github.io/CIT281-lab6/) Lab 6 description [Repository](https://github.com/Samantha936/CIT281-lab6)
-+ [Lab 7](https://samantha936.github.io/CIT281-lab7/) Lab 7 description [Repository](https://github.com/Samantha936/CIT281-lab7)
-+ [Lab 8](https://samantha936.github.io/CIT281-lab8/) Lab 8 description [Repository](https://github.com/Samantha936/CIT281-lab8)
-+ [Lab 9]() Lab 9 description [Repository]()
++ [Lab 1](https://samantha936.github.io/CIT281-lab1/) First lab [Repository](https://github.com/Samantha936/CIT281-lab1)
++ [Lab 2](https://samantha936.github.io/CIT281-lab2/) Second lab [Repository](https://github.com/Samantha936/CIT281-lab2)
++ [Lab 3](https://samantha936.github.io/CIT281-lab3/) Third lab [Repository](https://github.com/Samantha936/CIT281-lab3)
++ [Lab 4](https://samantha936.github.io/CIT281-lab4/) Fourth lab [Repository](https://github.com/Samantha936/CIT281-lab4)
++ [Lab 5](https://samantha936.github.io/CIT281-lab5/) Fifth lab [Repository](https://github.com/Samantha936/CIT281-lab5)
++ [Lab 6](https://samantha936.github.io/CIT281-lab6/) Sixth lab [Repository](https://github.com/Samantha936/CIT281-lab6)
++ [Lab 7](https://samantha936.github.io/CIT281-lab7/) Seventh lab [Repository](https://github.com/Samantha936/CIT281-lab7)
++ [Lab 8](https://samantha936.github.io/CIT281-lab8/) Eighth lab [Repository](https://github.com/Samantha936/CIT281-lab8)
++ [Lab 9](https://samantha936.github.io/CIT281-lab9/) Ninth lab [Repository](https://github.com/Samantha936/CIT281-lab9)
 
 
