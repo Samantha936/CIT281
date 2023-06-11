@@ -18,7 +18,7 @@
 + [Lab 3](https://samantha936.github.io/CIT281-lab3/) Lab 3 description [Repository](https://github.com/Samantha936/CIT281-lab3)
 + [Lab 4](https://samantha936.github.io/CIT281-lab4/) Lab 4 description [Repository](https://github.com/Samantha936/CIT281-lab4)
 + [Lab 5](https://samantha936.github.io/CIT281-lab5/) Lab 5 description [Repository](https://github.com/Samantha936/CIT281-lab5)
-+ [Lab 6]() Lab 6 description [Repository]()
++ [Lab 6](https://samantha936.github.io/CIT281-lab6/) Lab 6 description [Repository](https://github.com/Samantha936/CIT281-lab6)
 + [Lab 7]() Lab 7 description [Repository]()
 + [Lab 8]() Lab 8 description [Repository]()
 + [Lab 9]() Lab 9 description [Repository]()
